@@ -1,0 +1,24 @@
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\Domain.deps.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\Domain.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\Domain.pdb
+D:\visual studio\kitmshop20221215\DomainNew\bin\Debug\net5.0\Domain.deps.json
+D:\visual studio\kitmshop20221215\DomainNew\bin\Debug\net5.0\Domain.dll
+D:\visual studio\kitmshop20221215\DomainNew\bin\Debug\net5.0\Domain.pdb
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.dll
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\refint\Domain.dll
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\Domain.pdb
+D:\visual studio\kitmshop20221215\DomainNew\obj\Debug\net5.0\ref\Domain.dll

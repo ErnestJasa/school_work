@@ -1,0 +1,18 @@
+﻿@model firstMVC.Models.LoginViewModel
+<h1>Log in: </h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.LoginError))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.LoginError
+    </div>
+}
+
+<form asp-controller="@typeof(AccountController).UrlName()" asp-action="@nameof(AccountController.Login)" method="post">
+
+    <input type="text" asp-for="@Model.Username" value="" placeholder="Username..." />
+
+    <input type="password" asp-for="@Model.Password" value="" placeholder="Password..." />
+
+    <button type="submit">Siusti</button>
+</form>

@@ -1,0 +1,12 @@
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\DomainNew.deps.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\DomainNew.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\ref\DomainNew.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\bin\Debug\net5.0\DomainNew.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\ref\DomainNew.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\DomainNew\obj\Debug\net5.0\DomainNew.pdb

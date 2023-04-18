@@ -1,0 +1,8 @@
+﻿@model firstMVC.Models.InputViewModel
+<h1>Verslas</h1>
+
+<form asp-controller="@typeof(HomeController).UrlName()" asp-action="@nameof(HomeController.Index)" method="post">
+    <input type="text" asp-for="@Model.FirstName" value="" placeholder="Vardas..."/>
+    <input type="text" asp-for="@Model.LastName" value="" placeholder="Pavarde..."/>
+    <button type="submit">Siusti</button>
+</form>

@@ -1,0 +1,45 @@
+
+.container{    
+    background-color: #eee;
+    height: 400px;
+   
+}
+ul li{
+    display: inline-block;   
+}
+.first{
+    background-color: #65b2c3;   
+}
+.second{
+   background-color: #803939;  
+}
+.third{
+    background-color: #6266b9;    
+}
+.fourth{
+    background-color: #3e9a24aa;      
+}
+.fifth{
+    background-color: #aa4083aa;    
+}
+.sixth{
+    background-color: #803939;
+}
+.seventh{
+    background-color: #6266b9;
+}
+.eigth{
+    background-color: #3e9a24aa;
+}
+.nineth{
+    background-color: #aa4083aa;
+}
+.tenth{
+    background-color: #65b2c3;
+}
+.orange{
+    background-color: #8c4605;
+}
+footer div{
+    margin: 5px;
+}

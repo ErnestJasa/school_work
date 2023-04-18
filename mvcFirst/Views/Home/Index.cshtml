@@ -1,0 +1,24 @@
+﻿@*@Model string*@
+@*@model firstMVC.Models.ManoTest*@
+@model firstMVC.Models.InputViewModel
+
+@*@for (int i = 0; i < Model.Skaicius; i++)
+{
+    <strong>*</strong>
+}
+
+<h1>Rytas</h1>
+<h2>@ViewBag.manoString</h2>
+
+<h3>@ViewData["foo"]</h3>
+
+<h4>@TempData["bar"]</h4>
+
+<h1 class="text-primary">@Model.Tekstas</h1>
+
+<h1 class="text-primary">@Model.Skaicius</h1>*@
+
+<h1 class="text-primary">@Model.FirstName</h1>
+
+
+

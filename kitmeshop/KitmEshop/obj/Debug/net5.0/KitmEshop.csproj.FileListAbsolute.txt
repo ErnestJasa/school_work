@@ -1,0 +1,252 @@
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\appsettings.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.exe
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.deps.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\ref\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.Manifest.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.xml
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\scopedcss\bundle\KitmEshop.styles.css
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.input.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.output.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorCoreGenerate.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.Views.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\ref\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.genruntimeconfig.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CopyComplete
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\appsettings.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.exe
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.deps.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\ref\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.Manifest.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.xml
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\scopedcss\bundle\KitmEshop.styles.css
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.input.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.output.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorCoreGenerate.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.Views.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CopyComplete
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\ref\KitmEshop.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshopNeveikiantis\KitmEshop\obj\Debug\net5.0\KitmEshop.genruntimeconfig.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\Domain.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\InternalServices.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\KitmEshop\bin\Debug\net5.0\InternalServices.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\appsettings.Development.json
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\appsettings.json
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.StaticWebAssets.xml
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.exe
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.deps.json
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.json
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.runtimeconfig.dev.json
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\KitmEshop.Views.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Humanizer.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\DataAccessLayer.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Domain.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\InternalServices.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\Domain.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\InternalServices.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.AssemblyReference.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfoInputs.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.AssemblyInfo.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CoreCompileInputs.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorAssemblyInfo.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\scopedcss\bundle\KitmEshop.styles.css
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.Manifest.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\KitmEshop.StaticWebAssets.Pack.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\msbuild.KitmEshop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\msbuild.build.KitmEshop.props
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.KitmEshop.props
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.KitmEshop.props
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.input.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.TagHelpers.output.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorCoreGenerate.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.RazorTargetAssemblyInfo.cs
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.Views.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.csproj.CopyComplete
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.dll
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\refint\KitmEshop.dll
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.pdb
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\KitmEshop.genruntimeconfig.cache
+D:\visual studio\kitmshop20221215\KitmEshop\obj\Debug\net5.0\ref\KitmEshop.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Private.ServiceModel.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.ServiceModel.Http.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.ServiceModel.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.ServiceModel.Security.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\System.Text.Json.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\VisioForge.Core.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\VisioForge.Libs.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\VisioForge.MediaFramework.dll
+D:\visual studio\kitmshop20221215\KitmEshop\bin\Debug\net5.0\VisioForge.Types.dll

@@ -1,0 +1,34 @@
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\InternalServices.deps.json
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\InternalServices.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\ref\InternalServices.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\InternalServices.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\Domain.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\bin\Debug\net5.0\Domain.pdb
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.csproj.CopyComplete
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\ref\InternalServices.dll
+C:\Users\moksleivis\Desktop\EJ\KitmEshop\InternalServices\obj\Debug\net5.0\InternalServices.pdb
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\InternalServices.deps.json
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\InternalServices.dll
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\InternalServices.pdb
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\DataAccessLayer.dll
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\Domain.dll
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\visual studio\kitmshop20221215\InternalServices\bin\Debug\net5.0\Domain.pdb
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.csproj.AssemblyReference.cache
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.AssemblyInfoInputs.cache
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.AssemblyInfo.cs
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.csproj.CoreCompileInputs.cache
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.csproj.CopyComplete
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.dll
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\refint\InternalServices.dll
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\InternalServices.pdb
+D:\visual studio\kitmshop20221215\InternalServices\obj\Debug\net5.0\ref\InternalServices.dll

@@ -1,0 +1,13 @@
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.exe
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.deps.json
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.json
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.runtimeconfig.dev.json
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.dll
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.pdb
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csprojAssemblyReference.cache
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfoInputs.cache
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfo.cs
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.dll
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.pdb
+C:\Users\moksleivis\Desktop\EJ\Biblioteka\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.genruntimeconfig.cache

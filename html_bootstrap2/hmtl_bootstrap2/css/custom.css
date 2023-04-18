@@ -1,0 +1,44 @@
+.container-fluid{
+	
+}
+.background{
+	height: 50vh;
+}
+.title{	
+	
+	margin-top: 5% ;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+h1{
+	font-size: 3em;
+	font-family: 'Teko', sans-serif;
+}
+.sign-up{	
+	width: 35%;	
+	margin-top: -20px;	
+	margin-left: 32%;
+	background-color: #fa711c;
+}
+.sign-up p{
+	font-family: 'Merriweather Sans', sans-serif;
+	padding: 10px;	
+}
+@media screen and (max-width:850px) {
+	.title{
+		margin-top: 5%;
+		margin-left: 0;
+		margin-right: 0;
+		
+	}
+	h1{
+		font-size: 7vw;
+	}
+	.sign-up{
+		margin-top: -25px;
+	}
+	.sign-up p{
+		padding: 5px;
+		font-size: 3vw;
+	}
+}

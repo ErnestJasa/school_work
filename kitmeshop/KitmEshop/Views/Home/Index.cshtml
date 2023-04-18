@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (ViewBag.reviewAdded != null)
+{
+    <span class="alert alert-success">Review addded</span>
+}
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Eshop</h1>
+</div>
+<div class="res card"></div>
+<script>
+    (function () {
+        $.get("api/products", function (data) {
+            const result = JSON.parse(JSON.stringify(data)).$values
+
+            for (var i = 0; i < result.length; i++) {
+
+                $(".res").append('<ul><li><img src="' + result[i].image + '"/></li><li>' + result[i].name + '</li><li>' + result[i].price + '</li></ul> <a href="Review/add/' + result[i].id + '">Write a review</a><ul id="' + result[i].id + '"></ul>');
+
+                for (var y = 0; y < result[i].reviews.$values.length; y++) {
+
+                    $("#" + result[i].id).append('<li>' + result[i].reviews.$values[y].reviewText + '</li>');
+                }
+            }
+        });
+    })();
+
+    //$(".result").html(data);
+    //for (var i = 0; i < data.length; i++) {
+    //    $(".result").add("<p>" + data[i].Name.value + "</p>");
+    //}
+    //console.log(result);
+</script>
